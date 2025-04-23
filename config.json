@@ -1,0 +1,15 @@
+{
+  "PREFIX": "#",
+  "dakogOten": "dakogOten",
+  "PORT": 8080,
+  "WEBVIEW": "fi8.bot-hosting.net:8080",
+  "RESTART_TIME": 30,
+  "admin": [
+    "100094202834302"
+  ],
+  "ADS": "😺AutoCatGo😺",
+  "ADS_TIMER": "60",
+  "OWNER": "100094202834302",
+  "SPAM_MSG": "DETECTED SPAMMING 📛",
+  "NO_PREFIX": "false"
+}
